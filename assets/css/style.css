@@ -107,6 +107,13 @@ main {
 #introduction{
     background-color: #FFE5EC;
 }
+
+#anabel{
+    max-width: 100%;
+    max-height: 100%;
+    display: block; /* Remove extra space below inline images */
+    margin: auto; /* Center the image */
+}
 /* Footer */
 
 footer{

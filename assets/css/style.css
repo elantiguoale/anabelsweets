@@ -1,3 +1,5 @@
+/*Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -9,11 +11,21 @@ a {
     text-decoration: none;
  }
 
+section {
+    border: 1px solid #ddd; /* Border color and thickness */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+    padding: 20px; /* Padding inside the section */
+    margin-bottom: 20px; /* Margin to separate sections */
+}
+
 #welcome{
     color:black;
+    font-family: "Dancing Script", sans-serif;
+    font-weight: bold;
     background-color: #FB6F92;
     width:fit-content;
-    font-size:200%;
+    font-size:250%;
     text-align: center;
     
 }
@@ -106,6 +118,7 @@ main {
 
 #introduction{
     background-color: #FFE5EC;
+    padding-bottom: 100px;
 }
 
 #anabel{
@@ -113,6 +126,40 @@ main {
     max-height: 100%;
     display: block; /* Remove extra space below inline images */
     margin: auto; /* Center the image */
+    padding-top: 10px;
+}
+
+/*Cake types*/
+
+#cake-list {
+    background-color: #FFE5EC;
+    text-align: center;
+}
+
+#cake-list ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; /* Adjust the gap between items */
+}
+
+.cake-item {
+    text-align: center;
+    margin: 10px;
+}
+
+.cake-content {
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Set the direction to column */
+    align-items: center; /* Align items to the center within the column */
+}
+
+#cake-list img {
+    max-width: 200px;
+    height: auto;
+    margin-top: 10px; /* Adjust the margin between text and image */
 }
 /* Footer */
 
@@ -128,7 +175,6 @@ footer{
     justify-content: space-evenly;
     list-style-type: none;
     background-color: #FB6F92;
-    
 }
 
 

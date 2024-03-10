@@ -147,7 +147,6 @@ main {
 #cake-list {
     background-color: #FFE5EC;
     text-align: center;
-    font-size: 150%;
 }
 
 #cake-list h3 {
@@ -165,7 +164,6 @@ main {
 .cake-item {
     text-align: center;
     max-width: 50%;
-
 }
 
 .cake-content {
@@ -261,6 +259,10 @@ footer{
     }
     #about-me{
         font-size :140%;
+    }
+
+    #cake-list{
+        font-size:150%;
     }
 }
 

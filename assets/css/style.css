@@ -224,7 +224,7 @@ footer{
 }
 
 /*Form Styles*/
-form {
+#customer-form {
     max-width: 600px;
     margin: 20px auto;
     background-color: #FFE5EC;

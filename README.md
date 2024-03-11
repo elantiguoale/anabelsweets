@@ -1,75 +1,56 @@
 # Love Running
 
-
-
 Anabel's Sweets is a site I made to help my sister in the cake making business. I figured since she makes her cakes at home and doesnt really have the capital to pay someone to make her a website I culd use this opportunity to make it myself. In this page, people that see the website will be able to see a little about what she is all about, get a glimpse of her goals and her past projects. They will also be able to send a quote request to see if they want a cake or not.
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
-## Features 
-
-The project starts with a nice header that helps you navigate between the home screen, gallery, and quote form.
-Later you are welcomed by a picture with a label showing you what the site is about.
-After that you get introduced by a brief description of who the owner is and her goals.
-Followed up by some pictures of different flavored cakes to choose from.
-
-In the gallery section you will find lots of pictures of past cakes the owner has made for her customers. This shows a clear visibility of her ability to perform and deliver.
-
-Once the customer is satisfied with what they have seen, they have an easy to fill out form to submit their request and ask for a quote.
-
-and down below on the footer we find the social media links in case they would like to follow/subscribe or contact her another way.
 
 ![responsive](https://github.com/elantiguoale/anabelsweets/assets/59495965/bf1d283b-c962-4340-8a36-a8574db26d41)
 
-### Existing Features
+## Features 
 
 - __Navigation Bar__
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/elantiguoale/anabelsweets/assets/59495965/0c4c9f79-92ca-439e-b48b-62b8ab646014)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - Here you are welcomed by a picture of a cake world with a label showing you what the site is about.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/elantiguoale/anabelsweets/assets/59495965/74783a35-cca9-4206-84cb-45f38d98eddc)
 
-- __Club Ethos Section__
+- __Introduction__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - Here you get to meet the owner and see a little of how this vision came to life.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Introduction](https://github.com/elantiguoale/anabelsweets/assets/59495965/35966f93-16ce-4645-9960-30595e5f49b9)
 
-- __Meetup Times section__
+- __Cake Flavor__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - Here you see some pictures of different flavored cakes to choose from. Making it easier for the customer to make a choice.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Cake Flavors](https://github.com/elantiguoale/anabelsweets/assets/59495965/d34e2a03-b243-41cb-8660-76b3d9531e47)
+
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Anabel's Sweets. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/elantiguoale/anabelsweets/assets/59495965/5684eaba-781c-4cac-a6c6-5bc495aad0a5)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with supporting images to see previous cakes that have been made to fit the customers style. 
+  - This section is valuable to the user as they will be able to easily identify the types of cakes the can be made. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://github.com/elantiguoale/anabelsweets/assets/59495965/40657bae-689e-404f-8e68-342bab2965bf)
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to Anabel's Sweets to get a quote and make their favorite cake. The user will be able specify what type of cake they want, for how many people and ask for a price. The user will be asked to submit their full name, email address, and phone number. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Asking for a Quote](https://github.com/elantiguoale/anabelsweets/assets/59495965/176edff3-9dbb-4a6b-bdcb-f66643b0e871)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -81,13 +62,10 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+I have tested all the buttons and made sure everything is in its place so that everything is working as intended. 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+I have also added specific code to target the website in different screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 ### Validator Testing 

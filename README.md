@@ -1,14 +1,25 @@
 # Love Running
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+
+Anabel's Sweets is a site I made to help my sister in the cake making business. I figured since she makes her cakes at home and doesnt really have the capital to pay someone to make her a website I culd use this opportunity to make it myself. In this page, people that see the website will be able to see a little about what she is all about, get a glimpse of her goals and her past projects. They will also be able to send a quote request to see if they want a cake or not.
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The project starts with a nice header that helps you navigate between the home screen, gallery, and quote form.
+Later you are welcomed by a picture with a label showing you what the site is about.
+After that you get introduced by a brief description of who the owner is and her goals.
+Followed up by some pictures of different flavored cakes to choose from.
+
+In the gallery section you will find lots of pictures of past cakes the owner has made for her customers. This shows a clear visibility of her ability to perform and deliver.
+
+Once the customer is satisfied with what they have seen, they have an easy to fill out form to submit their request and ask for a quote.
+
+and down below on the footer we find the social media links in case they would like to follow/subscribe or contact her another way.
+
+![responsive](https://github.com/elantiguoale/anabelsweets/assets/59495965/bf1d283b-c962-4340-8a36-a8574db26d41)
 
 ### Existing Features
 

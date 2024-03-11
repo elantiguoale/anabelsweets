@@ -101,6 +101,7 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 - I used alot of the inspiration from Love running project from [Code Institute](https://codeinstitute.com)
 - Instructions on how to implement form validation on the Sign Up page was taken from Code Institute[Code Institute](https://codeinstitute.com)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The font for the header was taken from [Google Fonts](https://fonts.google.com/)
 
 ### Media
 
